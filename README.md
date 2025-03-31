@@ -2,7 +2,7 @@
 
 Pour démarrer le projet, il faut:
 ```
-git clone git@github.com:Orealyz/TP2-Devops-Ynov.git
+git clone https://github.com/Orealyz/TP2-Devops-Ynov.git
 ```
 
 Se rendre dans le dossier api:
